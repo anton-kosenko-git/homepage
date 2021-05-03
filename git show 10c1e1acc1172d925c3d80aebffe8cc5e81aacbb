@@ -1,0 +1,121 @@
+[33mcommit 10c1e1acc1172d925c3d80aebffe8cc5e81aacbb[m[33m ([m[1;36mHEAD -> [m[1;32mpatch/README.md[m[33m, [m[1;33mtag: abracadabra[m[33m)[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Tue May 4 00:36:42 2021 +0300
+
+    Abracadabra
+
+[33mcommit e6ec9f9863dfacd4af84b3466ee2634831b30946[m[33m ([m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: 3ce920a d27c238
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 22:13:54 2021 +0300
+
+    Merge pull request #13 from anton-kosenko-git/feature/body
+    
+    Add content
+
+[33mcommit d27c238d7e5c8f1e239106340518db6920edb253[m[33m ([m[1;31morigin/feature/body[m[33m, [m[1;32mfeature/body[m[33m)[m
+Merge: 278c305 3939062
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 22:12:17 2021 +0300
+
+    Merge pull request #12 from anton-kosenko-git/patch/content/secondary
+    
+    Add secondary information
+
+[33mcommit 278c3058039684226c323cf7a29cb41af975bbed[m
+Merge: a0cad22 1c48be1
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 22:10:32 2021 +0300
+
+    Merge pull request #11 from anton-kosenko-git/patch/content/primary
+    
+    Add primary information
+
+[33mcommit 3939062ca4d4efc3091f2f35412a399559c3652e[m[33m ([m[1;31morigin/patch/content/secondary[m[33m, [m[1;32mpatch/content/secondary[m[33m)[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 22:06:27 2021 +0300
+
+    Update information about languages
+
+[33mcommit 2b085057d0cd1558d121d8f40c4d40b89c29cde3[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 21:48:13 2021 +0300
+
+    Add secondary information
+
+[33mcommit 3ce920ad2183735564a3b827712ec22fb98ce6ef[m
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 21:39:34 2021 +0300
+
+    Create base.css
+
+[33mcommit 1c48be1089f961b7f81fc3f1b6383de99fc8fe42[m[33m ([m[1;31morigin/patch/content/primary[m[33m, [m[1;32mpatch/content/primary[m[33m)[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 20:52:08 2021 +0300
+
+    Add primary information
+
+[33mcommit 589ee69e12fb3d703bf9a1a6e296beaad60ee900[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 20:10:00 2021 +0300
+
+    Update index.html
+    
+    Add content
+
+[33mcommit a0cad2269fddd18af99f36bf9e51851e69d8f39b[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 11:53:28 2021 +0300
+
+    Update index.html
+    
+    Add content
+
+[33mcommit 6e9f595088a4f28d94a4ed2f24193bb1c08cab27[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 01:46:49 2021 +0300
+
+    Update index.html
+    
+    Add <main>
+
+[33mcommit 6af2f4cc927ba4e9ceda49c6406318c051b2f7e4[m
+Merge: d7bd932 6667b14
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 01:36:32 2021 +0300
+
+    Merge pull request #8 from anton-kosenko-git/feature/head
+    
+    Add base.css stylesheet link
+
+[33mcommit 6667b14d133000e19df0aa519a6c4678954cc944[m[33m ([m[1;31morigin/feature/head[m[33m, [m[1;32mfeature/head[m[33m)[m
+Author: Anton Kosenko <kosenko.mvp@gmail.com>
+Date:   Mon May 3 01:32:00 2021 +0300
+
+    Update index.html
+    
+    Add a base.css stylesheet link
+
+[33mcommit d7bd9325b262162068a09d5236ae0fc4a2365148[m
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Mon May 3 00:17:44 2021 +0300
+
+    Create index.html (closes #2)
+
+[33mcommit 01f6049f3bc50c758735cd35238dd8cecc37fc69[m
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Sun May 2 23:59:42 2021 +0300
+
+    Capitalize title
+
+[33mcommit f66932e9a00213865673ac97b78a7cb6456bece8[m
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Sun May 2 18:18:09 2021 +0300
+
+    Create README.md
+
+[33mcommit 8cdc933e1dbada959cac7eab5caf323c19f26c11[m
+Author: anton-kosenko-git <83528050+anton-kosenko-git@users.noreply.github.com>
+Date:   Sun May 2 18:01:32 2021 +0300
+
+    Initial commit
